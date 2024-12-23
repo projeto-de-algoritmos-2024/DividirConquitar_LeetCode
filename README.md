@@ -13,7 +13,7 @@ Temas:
 | 23/2022952  |  Leonardo de Souza Takehana |
 
 ## Sobre 
-O projeto é contemplado por resolver 4 questões da plataforma LeetCode, sendo 2 dífíceis e 2 médio. A definição de médio, fácil e difícil é concebida pela própria plataforma.
+O projeto é contemplado por resolver 3 questões da plataforma LeetCode, sendo 1 dífíceis e 2 médio. A definição de médio, fácil e difícil é concebida pela própria plataforma.
 
 Para os exercícios serem realizados, usamos o algoritmo de mediana das medianas para encontrar o par de pontos mais próximos á origem, merge sort, o problema de skyline, que usa uma abordagem similar ao merge sort e o algoritmo de karatsuba, para que pudessem receber o Accept como solução para o desafio.
 
