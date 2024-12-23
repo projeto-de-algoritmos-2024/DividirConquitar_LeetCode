@@ -29,6 +29,10 @@ Questão: [Médio - 43. Multiply Strings](https://leetcode.com/problems/multiply
 Questão: [Difícil - 218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)
 ![218](218.png)
 
+Questão: [Médio - 973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/?envType=problem-list-v2&envId=divide-and-conquer)
+![973](973.png)
+
+
 ## Instalação 
 **Linguagem**: python<br>
 **Framework**: Não será preciso<br>
