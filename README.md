@@ -1,10 +1,10 @@
 Temas:
- - Grafos1
+ - Dividir e Conquistar
  
 # DividirConquitar_LeetCode
 
 **Número da Lista**: 10<br>
-**Conteúdo da Disciplina**: Grafos 1<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
