@@ -34,30 +34,7 @@ def sort(array: list[int], left: int, mid: int, right: int) -> list[int]:
 
 
 def main():
-    un_sorted_array = [
-        14,
-        11,
-        13,
-        5,
-        8,
-        7,
-        1,
-        3,
-        2,
-        982,
-        125,
-        29,
-        23,
-        1234059,
-        -34,
-        -0.5,
-        0.5,
-        -0.0,
-        0.0,
-        -1.2,
-        1.2,
-        -346,
-    ]
+    un_sorted_array = [2, 2, 4, 4] + [2, 2, 2, 4, 4]
 
     merge_sort(un_sorted_array, 0, len(un_sorted_array) - 1)
     print(un_sorted_array)
