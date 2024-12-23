@@ -29,7 +29,7 @@ Questão: [Médio - 43. Multiply Strings](https://leetcode.com/problems/multiply
 Questão: [Difícil - 218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)
 ![218](218.png)
 
-Questão: [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/?envType=problem-list-v2&envId=divide-and-conquer)
+Questão: [Difícil - 4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/?envType=problem-list-v2&envId=divide-and-conquer)
 ![4](4.png)
 
 
